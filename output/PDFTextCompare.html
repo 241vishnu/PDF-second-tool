@@ -1,0 +1,9 @@
+<html><head><title>PDF Font Style Report</title>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">  
+google.charts.load("current", {packages:["corechart"]}); 
+google.charts.setOnLoadCallback(drawChart); function drawChart() 
+{ var data = google.visualization.arrayToDataTable([ ['Fields', 'Result'], ['Passed',     XXPASSEDXX],  ['Failed',    XXFAILEDXX]]); 
+var options = { slices: { 0: { color: 'Green' }, 1: { color: 'Red' } }, pieHole: 0.3,}  
+var chart = new google.visualization.PieChart(document.getElementById('donutchart')); 
+chart.draw(data, options); } </script> <body><table align="center" border='2' width='80%'> <tbody><tr style="height:40px"> <td width="40%"><b>Total No. of Fields Validated </b></td> <td width="10%" align="center"><b> 3 </b></td> <td rowspan="4" > <div id="donutchart"> </div>   </td>  </tr> <tr style="height:40px"> <td><b>No. of Fields Passed </b></td><td align="center"><b> XXPASSEDXX </b></td></tr> <tr style="height:40px"> <td><b>No. of Fields Failed </b></td><td align="center"><b> XXFAILEDXX </b></td></tr><tr style="height:40px" ><td><b>Over All result </b></td><td align="center"><b> XXSTATUSXX </b></td></tr></tbody><h1 align="center">PDF Font Style Report</h1><table border='2' width='80%' align="center"><tr><th>Sr. No# </th><th>Line No. </th><th>Actual Line </th><th>Expected Line </th><th>Result</th></tr>

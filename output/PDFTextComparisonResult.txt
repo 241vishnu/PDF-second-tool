@@ -1,0 +1,2927 @@
+
+
+Differences:
+Line: 1
+Actual: Parish Plus Policy Pack
+Expected: Parish Plus Policy Pack  
+
+Line: 2
+Actual: Policy Schedule
+Expected: Policy Schedule 
+
+Line: 3
+Actual: Policy Number P-1000045722/00
+Expected: Policy Number P-1000045722/00 
+
+Line: 4
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 5
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 7
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 8
+Actual: Page 1 of 18
+Expected: Page 1 of 16 
+
+Line: 10
+Actual: Your Policy. If You need to make any changes, please contact Us on 0345 777 3322. 
+Expected: Your Policy. If You need to make any changes, please contact Us on 0345 777 3322.  
+
+Line: 12
+Actual: of Your policy document. This schedule also shows any excesses which apply. An Excess is the amount that You 
+Expected: of Your policy document. This schedule also shows any excesses which apply.  
+
+Line: 13
+Actual: would have to pay towards any claim. If any clauses are shown, these are changes to the standard terms and 
+Expected: An Excess is the amount that You would have to pay towards any claim. If any clauses are shown, these are changes 
+
+Line: 14
+Actual: conditions of the Policy or relevant section. 
+Expected: to the standard terms and conditions of the Policy or relevant section.  
+
+Line: 16
+Actual: details of the cover provided. If You need a copy of the policy document, please contact Us on 0345 777 3322.
+Expected: details of the cover provided. If You need a copy of the policy document, please contact Us on 0345 777 3322. 
+
+Line: 17
+Actual: Policy number: P-1000045722/00
+Expected: Policy number: P-1000045722/00 
+
+Line: 18
+Actual: Insured: Test DocumentEncrypt
+Expected: Insured: Test DocumentEncrypt 
+
+Line: 19
+Actual: Period of insurance: 16 August 2022 to 15 August 2023
+Expected: Period of insurance: 
+
+Line: 20
+Actual: Premium details
+Expected: Premium details 
+
+Line: 21
+Actual: Premium: £1,483.00
+Expected: 16 August 2022 to 15 August 2023 
+
+Line: 22
+Actual: This is made up of a premium of £1,324.10 plus Insurance Premium Tax of £158.90.
+Expected: Premium: £1,483.00 
+
+Line: 23
+Actual: Important telephone numbers
+Expected: This is made up of a premium of £1,324.10 plus Insurance Premium Tax of £158.90. 
+
+Line: 24
+Actual: Customer service (Monday to Friday 8am to 6pm): 0345 777 3322
+Expected: Important telephone numbers 
+
+Line: 25
+Actual: Claims other than legal expenses: 0345 603 8381
+Expected: Customer service (Monday to Friday 8am to 6pm): 0345 777 3322 
+
+Line: 26
+Actual: Legal expenses claims: 0345 266 0029 quoting DAS reference EPS/6871845
+Expected: Claims other than legal expenses: 0345 603 8381 
+
+Line: 27
+Actual: (All new claims can be reported 24 hours a day, 7 days a week. Enquiries on existing claims can be made Monday to 
+Expected: Legal expenses claims: 0345 266 0029 quoting DAS reference EPS/6871845 
+
+Line: 28
+Actual: Friday 8am to 6pm).
+Expected: (All new claims can be reported 24 hours a day, 7 days a week. Enquiries on existing claims can be made Monday to 
+
+Line: 29
+Actual: Parish Plus Policy Pack
+Expected: Friday 8am to 6pm). 
+
+Line: 30
+Actual: Policy Schedule
+Expected: Schedule summary 
+
+Line: 31
+Actual: Policy Number P-1000045722/00
+Expected: This summary shows which sections of the policy You have chosen to insure. For full details of the cover provided, 
+
+Line: 32
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: including whether You have chosen to include any optional extensions please see the following pages 
+
+Line: 33
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected:  of this schedule. 
+
+Line: 34
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Cover for Risk at Church Hall 45 Poplar Trees May Farm Close Hollywood Birmingham B47 
+
+Line: 35
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: 5DN  
+
+Line: 36
+Actual: Page 2 of 18
+Expected: Section Cover in force 
+
+Line: 37
+Actual: Schedule summary
+Expected: Property damage 
+
+Line: 38
+Actual: This summary shows which sections of the policy You have chosen to insure. For full details of the cover provided, 
+Expected: ✓ 
+
+Line: 39
+Actual: including whether You have chosen to include any optional extensions please see the following pages of this 
+Expected: Loss of income 
+
+Line: 40
+Actual: schedule.
+Expected: ✓ 
+
+Line: 41
+Actual: Cover for Risk at Church Hall 45 Poplar Trees May Farm Close Hollywood Birmingham B47 
+Expected: Terrorism (Optional) 
+
+Line: 42
+Actual: 5DN 
+Expected:  
+
+Line: 43
+Actual: Section Cover in force
+Expected: Other cover 
+
+Line: 44
+Actual: Property damage 
+Expected: Section Cover in force 
+
+Line: 45
+Actual: Loss of income 
+Expected: Property damage – Specified items away from the 
+
+Line: 46
+Actual: Terrorism (Optional) 
+Expected: premises 
+
+Line: 47
+Actual: Other cover
+Expected:  
+
+Line: 48
+Actual: Section Cover in force
+Expected: Parish Plus Policy Pack  
+
+Line: 49
+Actual: Property damage – Specified items away from the 
+Expected: Policy Schedule 
+
+Line: 50
+Actual: premises 
+Expected: Policy Number P-1000045722/00 
+
+Line: 51
+Actual: Money 
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 52
+Actual: Theft by officials 
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 53
+Actual: Liabilities 
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 54
+Actual: Church council & trustee indemnity 
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 55
+Actual: Legal expenses 
+Expected: Page 2 of 16 
+
+Line: 56
+Actual: Personal accident 
+Expected: Money 
+
+Line: 57
+Actual: Policy clauses
+Expected: ✓ 
+
+Line: 58
+Actual: The clauses apply to each location unless specifically stated otherwise in the Appendix. 
+Expected: Theft by officials 
+
+Line: 59
+Actual: The full wording of the clauses applying to Your Policy are shown in Appendix 1.
+Expected: ✓ 
+
+Line: 60
+Actual: Clause
+Expected: Liabilities  
+
+Line: 61
+Actual: SPOL1 Theft of external metal condition
+Expected: ✓ 
+
+Line: 62
+Actual: SPOL7  Amendment to Inflation protection
+Expected: Church council & trustee indemnity 
+
+Line: 63
+Actual: SPOL8 Infectious or communicable disease exclusion
+Expected: ✓ 
+
+Line: 64
+Actual: SPOL9 Prevention of access – Non-damage
+Expected: Legal expenses 
+
+Line: 65
+Actual: SPOL10 Food poisoning defective sanitation vermin murder or suicide extension
+Expected: ✓ 
+
+Line: 66
+Actual: SPOL11 Long Term Undertaking and Rate Stability amendment
+Expected: Personal accident 
+
+Line: 67
+Actual: SPOL12 Cyber loss limited exclusion clause
+Expected: ✓ 
+
+Line: 68
+Actual: SPOL13 Liabilities section – Cyber exclusion and Data Protection Act extension amendment
+Expected: Policy clauses 
+
+Line: 69
+Actual: Parish Plus Policy Pack
+Expected: The clauses apply to each location unless specifically stated otherwise in the Appendix. The 
+
+Line: 70
+Actual: Policy Schedule
+Expected: full wording of the clauses applying to Your Policy are shown in Appendix 1. 
+
+Line: 71
+Actual: Policy Number P-1000045722/00
+Expected: Clause 
+
+Line: 72
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: SPOL1 Theft of external metal condition 
+
+Line: 73
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: SPOL7  Amendment to Inflation protection 
+
+Line: 74
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: SPOL8 Infectious or communicable disease exclusion 
+
+Line: 75
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: SPOL9 Prevention of access – Non-damage 
+
+Line: 76
+Actual: Page 3 of 18
+Expected: SPOL10 Food poisoning defective sanitation vermin murder or suicide extension 
+
+Line: 77
+Actual: Property damage section for Risk at Church Hall 45 Poplar Trees May Farm Close 
+Expected: SPOL11 Long Term Undertaking and Rate Stability amendment 
+
+Line: 78
+Actual: Hollywood Birmingham B47 5DN
+Expected: SPOL12 Cyber loss limited exclusion clause 
+
+Line: 79
+Actual: The loss limit is based on the combined Ecclesiastical valuation for Buildings and Contents and provides an 
+Expected: SPOL13 Liabilities section – Cyber exclusion and Data Protection Act extension amendment 
+
+Line: 80
+Actual: automatic free uplift from the valuation to protect You against any unexpected increases in buildings costs. Increases 
+Expected: Property damage section for Risk at Church Hall 45 Poplar Trees May Farm Close 
+
+Line: 81
+Actual: in buildings costs may be caused by changes in regulations, a sudden shortage of a particular material or shortage of 
+Expected: Hollywood Birmingham B47 5DN 
+
+Line: 82
+Actual: specialist labour.
+Expected: The loss limit is based on the combined Ecclesiastical valuation for Buildings and Contents and provides an 
+
+Line: 83
+Actual: Items insured Loss Limit Insured events (*for a list of 
+Expected: automatic free uplift from the valuation to protect You against any unexpected increases in buildings costs. Increases 
+
+Line: 84
+Actual: available events see Available 
+Expected: in buildings costs may be caused by changes in regulations, a sudden shortage of a particular material or shortage of 
+
+Line: 85
+Actual: insurable events table below).
+Expected: specialist labour. 
+
+Line: 86
+Actual: Excesses
+Expected: Items insured Loss Limit Insured events (*for a list of 
+
+Line: 87
+Actual: Buildings and Contents £2,960,000 All insurable events All losses - £250
+Expected: available events see Available 
+
+Line: 88
+Actual: (unless otherwise stated)
+Expected: insurable events table below). 
+
+Line: 89
+Actual: Wasps nests - £50
+Expected: Excesses 
+
+Line: 90
+Actual: Frozen food - £50
+Expected: Buildings and Contents £2,960,000 All insurable events All losses - £250 
+
+Line: 91
+Actual: Theft of Metal - £250
+Expected: (unless otherwise stated) 
+
+Line: 92
+Actual: *Available insurable events table
+Expected: Wasps nests - £50 
+
+Line: 93
+Actual: The table below shows the insurable events that are available under Your Policy. Please check the Property damage 
+Expected: Frozen food - £50 
+
+Line: 94
+Actual: table for each individual premises in this schedule to see which events are in force.
+Expected: Theft of Metal - £250 
+
+Line: 95
+Actual: Available insurable events
+Expected: *Available insurable events table 
+
+Line: 96
+Actual: Fire, lightning and explosion Storm Accidental damage
+Expected: The table below shows the insurable events that are available under Your Policy. Please check the Property damage 
+
+Line: 97
+Actual: Aircraft Flood Falling trees
+Expected: table for each individual premises in this schedule to see which events are in force. 
+
+Line: 98
+Actual: Riot Escape of water Falling aerials
+Expected: Parish Plus Policy Pack  
+
+Line: 99
+Actual: Malicious persons Impact Theft or attempted theft
+Expected: Policy Schedule 
+
+Line: 100
+Actual: Earthquake Escape of oil Glass, sanitary fixtures and signs
+Expected: Policy Number P-1000045722/00 
+
+Line: 101
+Actual: Item limit
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 102
+Actual: Cover item Limits
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 103
+Actual: Each bust, effigy, tomb, monument, memorial and shrine 
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 104
+Actual: within the Building
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 105
+Actual: £25,000 any one item.
+Expected: Page 3 of 16 
+
+Line: 106
+Actual: Limits for theft or attempted theft
+Expected:  Available insurable events  
+
+Line: 107
+Actual: Cover item Limits
+Expected: Fire, lightning and explosion Storm Accidental damage 
+
+Line: 108
+Actual: a.     Contents £25,000 any one item.
+Expected: Aircraft Flood  Falling trees 
+
+Line: 109
+Actual: b.     Contents in unlocked outbuildings £1,000 any one claim.
+Expected: Riot Escape of water Falling aerials 
+
+Line: 110
+Actual: c.     External metal up to the Loss limit in the Period of Insurance.
+Expected: Malicious persons Impact Theft or attempted theft 
+
+Line: 111
+Actual: d.     Subsequent Damage up to the Loss limit in the Period of Insurance.
+Expected: Earthquake Escape of oil Glass, sanitary fixtures and signs 
+
+Line: 112
+Actual: Parish Plus Policy Pack
+Expected: Item limit 
+
+Line: 113
+Actual: Policy Schedule
+Expected: Cover item  Limits 
+
+Line: 114
+Actual: Policy Number P-1000045722/00
+Expected: Each bust, effigy, tomb, monument, memorial and shrine 
+
+Line: 115
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: within the Building 
+
+Line: 116
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: £25,000 any one item. 
+
+Line: 117
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Limits for theft or attempted theft 
+
+Line: 118
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Cover item  Limits 
+
+Line: 119
+Actual: Page 4 of 18
+Expected: a.     Contents £25,000 any one item. 
+
+Line: 120
+Actual: Property damage extensions and limits
+Expected: b.     Contents in unlocked outbuildings £1,000 any one claim. 
+
+Line: 121
+Actual: The following is a list of available extensions with the limits applicable to this location.  If an extension is not in force 
+Expected: c.     External metal up to the Loss limit in the Period of Insurance. 
+
+Line: 122
+Actual: this will be indicated as ‘Not Insured’.
+Expected: d.     Subsequent Damage up to the Loss limit in the Period of Insurance. 
+
+Line: 123
+Actual: These extensions will only respond where the damage is caused by an insured event which is operative at the time of 
+Expected: Property damage extensions and limits 
+
+Line: 124
+Actual: loss. Further information on each extension is provided in Your policy document.
+Expected: The following is a list of available extensions with the limits applicable to this location.  If an extension is not in force 
+
+Line: 125
+Actual: Extension Limits 
+Expected: this will be indicated as ‘Not Insured’. 
+
+Line: 126
+Actual: 1.     Communion plate and other property away from the 
+Expected: These extensions will only respond where the damage is caused by an insured event which is operative at the time of 
+
+Line: 127
+Actual: premises 
+Expected: loss. Further information on each extension is provided in Your policy document. 
+
+Line: 128
+Actual:         a.   i. Communion plate a.   i.   £15,000 any one item.
+Expected: Extension  Limits  
+
+Line: 129
+Actual:            £30,000 in the Period of Insurance.
+Expected: 1.     Communion plate and other property away from the 
+
+Line: 130
+Actual:               ii. Contents in transit to bank/cleaning       ii.  £25,000 any one claim.
+Expected: premises  
+
+Line: 131
+Actual:               iii. Office equipment       iii. £10,000 any one claim.
+Expected:         a.   i. Communion plate a.   i.   £15,000 any one item. 
+
+Line: 132
+Actual:         b.   i. Other portable items b.   i.   £2,500 any one item and £10,000 any one claim.
+Expected:            £30,000 in the Period of Insurance. 
+
+Line: 133
+Actual:               ii. Specified items       ii.  Not Insured
+Expected:               ii. Contents in transit to bank/cleaning       ii.  £25,000 any one claim. 
+
+Line: 134
+Actual: 2.     Personal belongings
+Expected:               iii. Office equipment       iii. £10,000 any one claim. 
+
+Line: 135
+Actual:         a. Belonging to You, Your employees, Authorised 
+Expected:         b.   i. Other portable items b.   i.   £2,500 any one item and £10,000 any one claim. 
+
+Line: 136
+Actual: Volunteers, visiting clergy or visiting choristers
+Expected:               ii. Specified items       ii.  Not Insured 
+
+Line: 137
+Actual: a. £2,500 per person.
+Expected: 2.     Personal belongings 
+
+Line: 138
+Actual:         b. Whilst on a tour organised by You b. £100 per person.
+Expected:         a. Belonging to You, Your employees, Authorised  
+
+Line: 139
+Actual: 3.     Prizes and donated goods £2,500 any one item.
+Expected: Volunteers, visiting clergy or visiting choristers 
+
+Line: 140
+Actual: £5,000 any one event.
+Expected: a. £2,500 per person. 
+
+Line: 141
+Actual: 4.     Exhibitions, festivals and events
+Expected:         b. Whilst on a tour organised by You b. £100 per person. 
+
+Line: 142
+Actual:         a. Event/display items a. £2,500 any one item.
+Expected: 3.     Prizes and donated goods  £2,500 any one item. 
+
+Line: 143
+Actual:     £10,000 any one event.
+Expected: £5,000 any one event. 
+
+Line: 144
+Actual:         b. Marquees/tents/stalls       b. £2,500 any one item.
+Expected: Parish Plus Policy Pack  
+
+Line: 145
+Actual:     £10,000 any one event.
+Expected: Policy Schedule 
+
+Line: 146
+Actual: 5.     Damage by the emergency services £10,000 any one claim.
+Expected: Policy Number P-1000045722/00 
+
+Line: 147
+Actual: 6.     Property in the open £5,000 any one claim.
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 148
+Actual: 7.     Headstones and monuments £5,000 in the Period of Insurance.
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 149
+Actual: 8.      Alterations and additions
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 150
+Actual:          i. Buildings i.  £500,000 in the Period of Insurance.
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 151
+Actual:          ii. Contents ii. £50,000 in the Period of Insurance.
+Expected: Page 4 of 16 
+
+Line: 152
+Actual: 9.     Bequeathed property
+Expected: 4.     Exhibitions, festivals and events 
+
+Line: 153
+Actual:         a. Buildings a. £250,000 any one bequest.
+Expected:         a. Event/display items a. £2,500 any one item.     
+
+Line: 154
+Actual:         b. All other property b. £10,000 any one item.
+Expected: £10,000 any one event. 
+
+Line: 155
+Actual: 10.   Lock replacement following loss or theft of keys £5,000 any one claim.
+Expected:         b. Marquees/tents/stalls        b. £2,500 any one item.     
+
+Line: 156
+Actual: 11.   Frozen food £5,000 any one appliance.
+Expected: £10,000 any one event. 
+
+Line: 157
+Actual: £20,000 in the Period of Insurance.
+Expected: 5.     Damage by the emergency services £10,000 any one claim. 
+
+Line: 158
+Actual: 12.   Sewers and drains £15,000 any one claim.
+Expected: 6.     Property in the open £5,000 any one claim. 
+
+Line: 159
+Actual: 13.   Trace and access £50,000 any one claim.
+Expected: 7.     Headstones and monuments  £5,000 in the Period of Insurance. 
+
+Line: 160
+Actual: Parish Plus Policy Pack
+Expected: 8.      Alterations and additions 
+
+Line: 161
+Actual: Policy Schedule
+Expected:          i. Buildings i.  £500,000 in the Period of Insurance. 
+
+Line: 162
+Actual: Policy Number P-1000045722/00
+Expected:          ii. Contents ii. £50,000 in the Period of Insurance. 
+
+Line: 163
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: 9.     Bequeathed property 
+
+Line: 164
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected:         a. Buildings a. £250,000 any one bequest. 
+
+Line: 165
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected:         b. All other property b. £10,000 any one item. 
+
+Line: 166
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: 10.   Lock replacement following loss or theft of keys  £5,000 any one claim. 
+
+Line: 167
+Actual: Page 5 of 18
+Expected: 11.   Frozen food £5,000 any one appliance. 
+
+Line: 168
+Actual: Extension Limits 
+Expected: £20,000 in the Period of Insurance. 
+
+Line: 169
+Actual: 14.   Loss of oil, gas or water
+Expected: 12.   Sewers and drains  £15,000 any one claim. 
+
+Line: 170
+Actual:         a. Following insured damage a. £5,000 any one claim.
+Expected: 13.   Trace and access £50,000 any one claim. 
+
+Line: 171
+Actual:         b. LPG/oil following accidental discharge b. £5,000 any one claim.
+Expected: Extension  Limits  
+
+Line: 172
+Actual: c. Theft of oil c. £5,000 in the Period of Insurance.
+Expected: 14.   Loss of oil, gas or water 
+
+Line: 173
+Actual:         d. Decontamination d. £25,000 any one claim.
+Expected:         a. Following insured damage a. £5,000 any one claim. 
+
+Line: 174
+Actual: 15.   Minor contract works £150,000 for the Contract Works including
+Expected:         b. LPG/oil following accidental discharge b. £5,000 any one claim. 
+
+Line: 175
+Actual:         Off-site storage £7,500 any one storage site.
+Expected: c. Theft of oil c. £5,000 in the Period of Insurance. 
+
+Line: 176
+Actual: 16.   Archaeological costs £250,000 any one claim.
+Expected:         d. Decontamination d. £25,000 any one claim. 
+
+Line: 177
+Actual: 17.   Extinguisher and alarm resetting expenses Up to the Loss limit in the Period of Insurance.
+Expected: 15.   Minor contract works £150,000 for the Contract Works including 
+
+Line: 178
+Actual: 18.   Planning (Listed Buildings and Conservation Areas) 
+Expected:         Off-site storage £7,500 any one storage site. 
+
+Line: 179
+Actual: Act 1990
+Expected: 16.   Archaeological costs £250,000 any one claim. 
+
+Line: 180
+Actual: 20% of the Loss limit any one claim.
+Expected: 17.   Extinguisher and alarm resetting expenses  Up to the Loss limit in the Period of Insurance. 
+
+Line: 181
+Actual: 19.   Fly tipping £2,500 in the Period of Insurance.
+Expected: 18.   Planning (Listed Buildings and Conservation Areas) 
+
+Line: 182
+Actual: 20.   Loss avoidance measures £10,000 any one occurrence or series of events arising 
+Expected: Act 1990 
+
+Line: 183
+Actual: out of one occurrence.
+Expected: 20% of the Loss limit any one claim. 
+
+Line: 184
+Actual: 21.   Removal of wasp, bee or hornet nests £1,000 any one claim.
+Expected: 19.   Fly tipping £2,500 in the Period of Insurance. 
+
+Line: 185
+Actual: 22.   Environmental improvements 10% of any one claim which We agree to pay or 
+Expected: 20.   Loss avoidance measures  £10,000 any one occurrence or series of events arising 
+
+Line: 186
+Actual: £500,000 whichever is the lower.
+Expected: out of one occurrence. 
+
+Line: 187
+Actual: Loss of income section for Risk at Church Hall 45 Poplar Trees May Farm Close Hollywood 
+Expected: 21.   Removal of wasp, bee or hornet nests  £1,000 any one claim. 
+
+Line: 188
+Actual: Birmingham B47 5DN
+Expected: 22.   Environmental improvements 10% of any one claim which We agree to pay or 
+
+Line: 189
+Actual: Limit of liability Maximum Indemnity Period Excess
+Expected: £500,000 whichever is the lower. 
+
+Line: 190
+Actual: £100,000 any one event. 48 months. Church event - Cancellation £100
+Expected: Loss of income section for Risk at Church Hall 45 Poplar Trees May Farm Close Hollywood 
+
+Line: 191
+Actual: All other losses - Nil
+Expected: Birmingham B47 5DN 
+
+Line: 192
+Actual:  
+Expected: Limit of liability Maximum Indemnity Period Excess 
+
+Line: 193
+Actual: Loss of income extensions and limits 
+Expected: Parish Plus Policy Pack  
+
+Line: 194
+Actual: Extension Limits
+Expected: Policy Schedule 
+
+Line: 195
+Actual: 1.     Prevention of access – Damage £100,000 any one event.
+Expected: Policy Number P-1000045722/00 
+
+Line: 196
+Actual: 2.     Prevention of access – Non-damage £10,000 in the Period of Insurance. 
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 197
+Actual: 3.     Specified disease, murder, food poisoning, 
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 198
+Actual: defective sanitation, vermin
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 199
+Actual: £100,000 any one event.
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 200
+Actual: 4.     Suppliers’ premises £10,000 any one event.
+Expected: Page 5 of 16 
+
+Line: 201
+Actual: 5.     Utility suppliers’ premises £100,000 any one event.
+Expected: £100,000 any one event. 48 months. Church event - Cancellation £100 
+
+Line: 202
+Actual: 6.     Failure of utility supply – Pipes and cables £5,000 any one event.
+Expected: All other losses - Nil 
+
+Line: 203
+Actual: 7.     Failure of telecommunication services £5,000 any one event.
+Expected:   
+
+Line: 204
+Actual: 8.     Computer equipment 
+Expected: Loss of income extensions and limits  
+
+Line: 205
+Actual:         a. Reinstatement of data a. £25,000 in the Period of Insurance. 
+Expected: Extension Limits 
+
+Line: 206
+Actual:         b. Computers – Increased cost of working b. £25,000 in the Period of Insurance.
+Expected: 1.     Prevention of access – Damage £100,000 any one event. 
+
+Line: 207
+Actual: 9.     Book debts £50,000 in the Period of Insurance. 
+Expected: 2.     Prevention of access – Non-damage £10,000 in the Period of Insurance.  
+
+Line: 208
+Actual: 10.   Events and exhibitions away from the premises £10,000 any one event. 
+Expected: 3.     Specified disease, murder, food poisoning, 
+
+Line: 209
+Actual: 11.   Church event – Cancellation £1,000 any one event. 
+Expected: defective sanitation, vermin 
+
+Line: 210
+Actual: 12.   Archaeological digs Included within the limit of liability.
+Expected: £100,000 any one event. 
+
+Line: 211
+Actual: Parish Plus Policy Pack
+Expected: 4.     Suppliers’ premises  £10,000 any one event. 
+
+Line: 212
+Actual: Policy Schedule
+Expected: 5.     Utility suppliers’ premises £100,000 any one event. 
+
+Line: 213
+Actual: Policy Number P-1000045722/00
+Expected: 6.     Failure of utility supply – Pipes and cables  £5,000 any one event. 
+
+Line: 214
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: 7.     Failure of telecommunication services £5,000 any one event. 
+
+Line: 215
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: 8.     Computer equipment  
+
+Line: 216
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected:         a. Reinstatement of data a. £25,000 in the Period of Insurance.  
+
+Line: 217
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected:         b. Computers – Increased cost of working b. £25,000 in the Period of Insurance. 
+
+Line: 218
+Actual: Page 6 of 18
+Expected: 9.     Book debts  £50,000 in the Period of Insurance.  
+
+Line: 219
+Actual:  
+Expected: 10.   Events and exhibitions away from the premises  £10,000 any one event.  
+
+Line: 220
+Actual:  
+Expected: 11.   Church event – Cancellation £1,000 any one event.  
+
+Line: 221
+Actual: Other cover
+Expected: 12.   Archaeological digs  Included within the limit of liability. 
+
+Line: 222
+Actual: Money section 
+Expected:   
+
+Line: 223
+Actual: Excess: Nil
+Expected:   
+
+Line: 224
+Actual: Money limits  
+Expected: Other cover 
+
+Line: 225
+Actual: Type of money Limits
+Expected: Money section  
+
+Line: 226
+Actual: Non-negotiable money £250,000 any one loss. 
+Expected: Excess: Nil 
+
+Line: 227
+Actual: Money (other than non-negotiable money):
+Expected: Money limits   
+
+Line: 228
+Actual: In transit or in a bank night safe £5,000 any one loss.
+Expected: Type of money Limits 
+
+Line: 229
+Actual: Whilst counted or in the home of an authorised officer or 
+Expected: Non-negotiable money £250,000 any one loss.  
+
+Line: 230
+Actual: employee
+Expected: Money (other than non-negotiable money):  
+
+Line: 231
+Actual: £5,000 any one loss.
+Expected: In transit or in a bank night safe £5,000 any one loss. 
+
+Line: 232
+Actual: In an unspecified locked safe on the Premises £5,000 any one loss.
+Expected: Whilst counted or in the home of an authorised officer or 
+
+Line: 233
+Actual: Any other loss £500 any one loss.
+Expected: employee 
+
+Line: 234
+Actual: Money extensions and limits 
+Expected: £5,000 any one loss. 
+
+Line: 235
+Actual: Extension Limits
+Expected: In an unspecified locked safe on the Premises £5,000 any one loss. 
+
+Line: 236
+Actual: 1.     Damage to safes Unlimited. 
+Expected: Any other loss £500 any one loss. 
+
+Line: 237
+Actual: 2.     Damage to clothing and personal belongings £1,000 per person. 
+Expected: Money extensions and limits  
+
+Line: 238
+Actual: 3.     Fund raising events Increases standard money limits for a set period.  
+Expected: Extension  Limits 
+
+Line: 239
+Actual: 4.     Fraudulent use of credit and debit cards £1,000 per card in the Period of Insurance. 
+Expected: Parish Plus Policy Pack  
+
+Line: 240
+Actual: 5.     Identity theft £1,000 in the Period of Insurance. 
+Expected: Policy Schedule 
+
+Line: 241
+Actual: Theft by officials section 
+Expected: Policy Number P-1000045722/00 
+
+Line: 242
+Actual: Excess: Nil
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 243
+Actual: Limit of liability: £10,000 any one claim.
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 244
+Actual: Theft by officials extensions and limits
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 245
+Actual: Extension Limits
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 246
+Actual: 1.     Auditors’ fees Up to the limit of liability any one claim.
+Expected: Page 6 of 16 
+
+Line: 247
+Actual: 2.     Previous insurance Up to the limit of liability any one claim.
+Expected: 1.     Damage to safes Unlimited.  
+
+Line: 248
+Actual: Parish Plus Policy Pack
+Expected: 2.     Damage to clothing and personal belongings  £1,000 per person.  
+
+Line: 249
+Actual: Policy Schedule
+Expected: 3.     Fund raising events  Increases standard money limits for a set period.   
+
+Line: 250
+Actual: Policy Number P-1000045722/00
+Expected: 4.     Fraudulent use of credit and debit cards  £1,000 per card in the Period of Insurance.  
+
+Line: 251
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: 5.     Identity theft £1,000 in the Period of Insurance.  
+
+Line: 252
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: Theft by officials section  
+
+Line: 253
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Excess: Nil 
+
+Line: 254
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Limit of liability: £10,000 any one claim. 
+
+Line: 255
+Actual: Page 7 of 18
+Expected: Theft by officials extensions and limits 
+
+Line: 256
+Actual: Liabilities section
+Expected: Extension  Limits 
+
+Line: 257
+Actual: Public liability – Third party property damage excess: Nil
+Expected: 1.     Auditors’ fees Up to the limit of liability any one claim. 
+
+Line: 258
+Actual: Public liability – Clean-up costs excess: The first 10% of any Sudden Pollution or Contamination Incident, 
+Expected: 2.     Previous insurance  Up to the limit of liability any one claim. 
+
+Line: 259
+Actual: subject to a minimum of £2,500 and a maximum of £25,000.
+Expected: Liabilities section 
+
+Line: 260
+Actual: Limits of Liability
+Expected: Public liability – Third party property damage excess: Nil 
+
+Line: 261
+Actual: Cover Limit of indemnity
+Expected: Public liability – Clean-up costs excess: The first 10% of any Sudden Pollution or Contamination Incident, 
+
+Line: 262
+Actual: Cover 1 – Employers’ liability £10,000,000 any one Event.
+Expected: subject to a minimum of £2,500 and a maximum of £25,000. 
+
+Line: 263
+Actual: £5,000,000 any one Event following an Act of 
+Expected: Limits of Liability 
+
+Line: 264
+Actual: Terrorism.
+Expected: Cover  Limit of indemnity 
+
+Line: 265
+Actual: £5,000,000 all Events in the Period of Insurance for 
+Expected: Cover 1 – Employers’ liability £10,000,000 any one Event. 
+
+Line: 266
+Actual: Corporate manslaughter.
+Expected: £5,000,000 any one Event following an Act of 
+
+Line: 267
+Actual: Cover 2 – Public & products liability £10,000,000 any one Event for Public liability. 
+Expected: Terrorism. 
+
+Line: 268
+Actual: £10,000,000 all Events in the Period of Insurance for 
+Expected: £5,000,000 all Events in the Period of Insurance for 
+
+Line: 269
+Actual: Products liability.
+Expected: Corporate manslaughter. 
+
+Line: 270
+Actual: £10,000,000 all incidents in the Period of Insurance for 
+Expected: Cover 2 – Public & products liability £10,000,000 any one Event for Public liability.  
+
+Line: 271
+Actual: Pollution or Contamination.
+Expected: £10,000,000 all Events in the Period of Insurance for 
+
+Line: 272
+Actual: £5,000,000 any one Event following an Act of 
+Expected: Products liability. 
+
+Line: 273
+Actual: Terrorism.
+Expected: £10,000,000 all incidents in the Period of Insurance for 
+
+Line: 274
+Actual: £5,000,000 all Events in the Period of Insurance for 
+Expected: Pollution or Contamination. 
+
+Line: 275
+Actual: Corporate manslaughter.
+Expected: £5,000,000 any one Event following an Act of 
+
+Line: 276
+Actual: Cover 3 – Prosecution defence costs £500,000 any one claim. 
+Expected: Terrorism. 
+
+Line: 277
+Actual: Cover 1 - Employers’ liability extensions and limits
+Expected: £5,000,000 all Events in the Period of Insurance for 
+
+Line: 278
+Actual: Extension Limits
+Expected: Corporate manslaughter. 
+
+Line: 279
+Actual: 1.     Unsatisfied court judgments Up to the limit of indemnity.
+Expected: Cover 3 – Prosecution defence costs  £500,000 any one claim.  
+
+Line: 280
+Actual: 2.     Compensation for court attendance 
+Expected: Cover 1 - Employers’ liability extensions and limits 
+
+Line: 281
+Actual:          a. Any Church Official
+Expected: Extension Limits 
+
+Line: 282
+Actual:          b. Any Employed Person 
+Expected: 1.     Unsatisfied court judgments  Up to the limit of indemnity. 
+
+Line: 283
+Actual: a. £500 per day.
+Expected: Parish Plus Policy Pack  
+
+Line: 284
+Actual: b. £250 per day.
+Expected: Policy Schedule 
+
+Line: 285
+Actual: Cover 2 - Public & products liability extensions and limits
+Expected: Policy Number P-1000045722/00 
+
+Line: 286
+Actual: Extension Limits
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 287
+Actual: 1.     Cross liabilities Up to the limit of indemnity.
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 288
+Actual: 2.     Compensation for court attendance
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 289
+Actual:         a. Any Church Official a. £500 per day.
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 290
+Actual:         b. Any Employed Person b. £250 per day.
+Expected: Page 7 of 16 
+
+Line: 291
+Actual: 3.     Contingent motor liability Up to the limit of indemnity. 
+Expected: 2.     Compensation for court attendance  
+
+Line: 292
+Actual: 4.     Data protection
+Expected: a. Any Church Official 
+
+Line: 293
+Actual:         a. Damages and Legal Costs for material and non-
+Expected: b. Any Employed Person  
+
+Line: 294
+Actual: material Damage
+Expected: a. £500 per day. 
+
+Line: 295
+Actual: a. £1,000,000 any one Event.
+Expected: b. £250 per day. 
+
+Line: 296
+Actual:         b. Defence costs and prosecution costs awarded 
+Expected: Cover 2 - Public & products liability extensions and limits 
+
+Line: 297
+Actual: against You
+Expected: Extension  Limits 
+
+Line: 298
+Actual: b. £100,000 in the Period of Insurance.
+Expected: 1.     Cross liabilities Up to the limit of indemnity. 
+
+Line: 299
+Actual: 5.     Defective premises Up to the limit of indemnity.
+Expected: 2.     Compensation for court attendance 
+
+Line: 300
+Actual: Parish Plus Policy Pack
+Expected:         a. Any Church Official 
+
+Line: 301
+Actual: Policy Schedule
+Expected: a. £500 per day. 
+
+Line: 302
+Actual: Policy Number P-1000045722/00
+Expected:         b. Any Employed Person b. £250 per day. 
+
+Line: 303
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: 3.     Contingent motor liability  Up to the limit of indemnity.  
+
+Line: 304
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: 4.     Data protection 
+
+Line: 305
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected:         a. Damages and Legal Costs for material and non- 
+
+Line: 306
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: material Damage 
+
+Line: 307
+Actual: Page 8 of 18
+Expected: a. £1,000,000 any one Event. 
+
+Line: 308
+Actual: Extension Limits
+Expected:         b. Defence costs and prosecution costs awarded 
+
+Line: 309
+Actual: 6.     Overseas personal liability Up to the limit of indemnity.
+Expected: against You 
+
+Line: 310
+Actual: 7.     Clean-up costs £1,000,000 for all incidents in the Period of Insurance.
+Expected: b. £100,000 in the Period of Insurance. 
+
+Line: 311
+Actual: 8.     Indemnity to private hirers £2,000,000 any one Event.
+Expected: 5.     Defective premises  Up to the limit of indemnity. 
+
+Line: 312
+Actual: £2,000,000 in the Period of Insurance for claims 
+Expected: Extension  Limits 
+
+Line: 313
+Actual: arising from products.
+Expected: 6.     Overseas personal liability Up to the limit of indemnity. 
+
+Line: 314
+Actual: 9.      Libel, slander and breach of intellectual property 
+Expected: 7.     Clean-up costs £1,000,000 for all incidents in the Period of Insurance. 
+
+Line: 315
+Actual: rights
+Expected: 8.     Indemnity to private hirers £2,000,000 any one Event. 
+
+Line: 316
+Actual: £250,000 in the Period of Insurance.
+Expected: £2,000,000 in the Period of Insurance for claims 
+
+Line: 317
+Actual: 10.     Pastoral care indemnity
+Expected: arising from products. 
+
+Line: 318
+Actual:           a. Accidental Injury
+Expected: 9.      Libel, slander and breach of intellectual property 
+
+Line: 319
+Actual:           b. Property Damage
+Expected: rights 
+
+Line: 320
+Actual: a. and b. £10,000,000 in the Period of Insurance.
+Expected: £250,000 in the Period of Insurance. 
+
+Line: 321
+Actual:           c. Financial loss c. £250,000 in the Period of Insurance.
+Expected: 10.     Pastoral care indemnity 
+
+Line: 322
+Actual: 11.     Errors & omissions £250,000 in the Period of Insurance.
+Expected: a. Accidental Injury 
+
+Line: 323
+Actual: 12.     Errors & omissions – Independent examination  £25,000 in the Period of Insurance.
+Expected: b. Property Damage 
+
+Line: 324
+Actual: 13.     Reimbursement of additional motor costs for 
+Expected: a. and b. £10,000,000 in the Period of Insurance. 
+
+Line: 325
+Actual: officials and authorised volunteers 
+Expected:           c. Financial loss c. £250,000 in the Period of Insurance. 
+
+Line: 326
+Actual:           a. Excess reimbursement
+Expected: 11.     Errors & omissions  £250,000 in the Period of Insurance. 
+
+Line: 327
+Actual:           b. Premium reimbursement
+Expected: 12.     Errors & omissions – Independent examination   £25,000 in the Period of Insurance. 
+
+Line: 328
+Actual: a. £250 per person in the Period of Insurance.
+Expected: 13.     Reimbursement of additional motor costs for 
+
+Line: 329
+Actual: b. £250 per person in the Period of Insurance.
+Expected: officials and authorised volunteers  
+
+Line: 330
+Actual: Public & products liability optional extensions
+Expected: a. Excess reimbursement 
+
+Line: 331
+Actual: Extension Limits
+Expected: b. Premium reimbursement 
+
+Line: 332
+Actual: Professional counselling services
+Expected: a. £250 per person in the Period of Insurance. 
+
+Line: 333
+Actual:           a. Accidental Injury
+Expected: b. £250 per person in the Period of Insurance. 
+
+Line: 334
+Actual:           b. Property Damage
+Expected: Public & products liability optional extensions 
+
+Line: 335
+Actual: a. and b. Not Insured
+Expected: Extension Limits 
+
+Line: 336
+Actual:           c. Financial loss c. Not Insured
+Expected: Professional counselling services           
+
+Line: 337
+Actual: Parish nursing Not Insured
+Expected: a. Accidental Injury 
+
+Line: 338
+Actual: Legionella Not Insured
+Expected:           b. Property Damage 
+
+Line: 339
+Actual: Liability retroactive dates 
+Expected: a. and b. Not Insured 
+
+Line: 340
+Actual: Extension Retroactive date
+Expected:           c. Financial loss c. Not Insured 
+
+Line: 341
+Actual: 10.    Pastoral care indemnity 16/08/2022
+Expected: Parish nursing  Not Insured 
+
+Line: 342
+Actual: 11.    Errors & omissions 16/08/2022
+Expected: Parish Plus Policy Pack  
+
+Line: 343
+Actual: 12.    Errors & omissions – Independent examination 16/08/2022
+Expected: Policy Schedule 
+
+Line: 344
+Actual: Parish Plus Policy Pack
+Expected: Policy Number P-1000045722/00 
+
+Line: 345
+Actual: Policy Schedule
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 346
+Actual: Policy Number P-1000045722/00
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 347
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 348
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 349
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Page 8 of 16 
+
+Line: 350
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Legionella Not Insured 
+
+Line: 351
+Actual: Page 9 of 18
+Expected: Liability retroactive dates  
+
+Line: 352
+Actual: Church council & trustee indemnity
+Expected: Extension  Retroactive date 
+
+Line: 353
+Actual: Excess: Nil
+Expected: 10.    Pastoral care indemnity 16/08/2022 
+
+Line: 354
+Actual: Limit of liability: £250,000 in the Period of Insurance.
+Expected: 11.    Errors & omissions 16/08/2022 
+
+Line: 355
+Actual: Wrongful Act date: Not Applicable
+Expected: 12.    Errors & omissions – Independent examination  16/08/2022 
+
+Line: 356
+Actual: Church council & trustee indemnity extensions and limits
+Expected: Church council & trustee indemnity 
+
+Line: 357
+Actual: Extension Limits
+Expected: Excess: Nil 
+
+Line: 358
+Actual: 1.     Extended reporting period 12 months.
+Expected: Limit of liability: £250,000 in the Period of Insurance. 
+
+Line: 359
+Actual: 2.     Retired trustees 120 months.
+Expected: Wrongful Act date: Not Applicable 
+
+Line: 360
+Actual: 3.     Outside boards Up to the limit of liability.
+Expected: Church council & trustee indemnity extensions and limits 
+
+Line: 361
+Actual: 4.     Emergency costs and expenses 10% of the limit of liability. 
+Expected: Extension  Limits 
+
+Line: 362
+Actual: 5.     Investigation costs Up to the limit of liability.
+Expected: 1.     Extended reporting period 12 months. 
+
+Line: 363
+Actual: 6.     Pollution defence costs Up to the limit of liability.
+Expected: 2.     Retired trustees 120 months. 
+
+Line: 364
+Actual: 7.     Compensation for court attendance £500 a day.
+Expected: 3.     Outside boards Up to the limit of liability. 
+
+Line: 365
+Actual: Legal expenses section 
+Expected: 4.     Emergency costs and expenses 10% of the limit of liability.  
+
+Line: 366
+Actual: This cover has been arranged through DAS Legal Expenses Insurance Company Limited (DAS).
+Expected: 5.     Investigation costs  Up to the limit of liability. 
+
+Line: 367
+Actual: Excess: Nil
+Expected: 6.     Pollution defence costs  Up to the limit of liability. 
+
+Line: 368
+Actual: Limit of indemnity: £250,000 any one event.
+Expected: 7.     Compensation for court attendance  £500 a day. 
+
+Line: 369
+Actual: This includes compensation awards which are further limited to a total of £1,000,000 in the Period of Insurance.
+Expected: Legal expenses section  
+
+Line: 370
+Actual: Insured Events
+Expected: This cover has been arranged through DAS Legal Expenses Insurance Company Limited (DAS). 
+
+Line: 371
+Actual: Employment practices legal protection and 
+Expected: Excess: Nil 
+
+Line: 372
+Actual: compensation awards
+Expected: Limit of indemnity: £250,000 any one event. 
+
+Line: 373
+Actual: Debt recovery
+Expected: This includes compensation awards which are further limited to a total of £1,000,000 in the Period of Insurance. 
+
+Line: 374
+Actual: Legal defence Property protection and personal injury
+Expected:  Insured Events 
+
+Line: 375
+Actual: Statutory licence appeal Tax protection
+Expected: Employment practices legal protection and 
+
+Line: 376
+Actual: Contract disputes
+Expected: compensation awards 
+
+Line: 377
+Actual: Personal accident section
+Expected:  Debt recovery 
+
+Line: 378
+Actual: Excess: Nil
+Expected: Legal defence  Property protection and personal injury 
+
+Line: 379
+Actual: Insured Persons 
+Expected: Statutory licence appeal  Tax protection 
+
+Line: 380
+Actual: Subject to the age limits shown in the Personal accident benefits table.
+Expected: Contract disputes   
+
+Line: 381
+Actual: Insured person Operative time Location 
+Expected: Personal accident section 
+
+Line: 382
+Actual: Members of the clergy 24 hours. Anywhere in the Geographical 
+Expected: Excess: Nil 
+
+Line: 383
+Actual: Limits or whilst temporarily outside 
+Expected: Insured Persons  
+
+Line: 384
+Actual: the Geographical Limits.
+Expected: Subject to the age limits shown in the Personal accident benefits table. 
+
+Line: 385
+Actual: Employees, members of the Church 
+Expected: Parish Plus Policy Pack  
+
+Line: 386
+Actual: Council, hall committee members 
+Expected: Policy Schedule 
+
+Line: 387
+Actual: and officers and Authorised 
+Expected: Policy Number P-1000045722/00 
+
+Line: 388
+Actual: Volunteers
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 389
+Actual: Whilst engaged in Your business or 
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 390
+Actual: authorised activities.
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 391
+Actual: Anywhere in the Geographical 
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 392
+Actual: Limits.
+Expected: Page 9 of 16 
+
+Line: 393
+Actual: Parish Plus Policy Pack
+Expected: Insured person  Operative time  Location  
+
+Line: 394
+Actual: Policy Schedule
+Expected: Members of the clergy 24 hours. Anywhere in the Geographical  
+
+Line: 395
+Actual: Policy Number P-1000045722/00
+Expected: Limits or whilst temporarily outside 
+
+Line: 396
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: the Geographical Limits. 
+
+Line: 397
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: Employees, members of the Church 
+
+Line: 398
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Council, hall committee members 
+
+Line: 399
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: and officers and Authorised 
+
+Line: 400
+Actual: Page 10 of 18
+Expected: Volunteers 
+
+Line: 401
+Actual: Insured person Operative time Location 
+Expected: Whilst engaged in Your business or 
+
+Line: 402
+Actual: Children aged 3 or over and youths Whilst taking part in activities 
+Expected: authorised activities. 
+
+Line: 403
+Actual: organised by You.
+Expected: Anywhere in the Geographical 
+
+Line: 404
+Actual: Anywhere in the Geographical 
+Expected: Limits. 
+
+Line: 405
+Actual: Limits.
+Expected: Insured person  Operative time  Location  
+
+Line: 406
+Actual: Any member of a party travelling 
+Expected: Children aged 3 or over and youths  Whilst taking part in activities 
+
+Line: 407
+Actual: with Your knowledge and authority 
+Expected: organised by You. 
+
+Line: 408
+Actual: Whilst on a tour organised by You. Anywhere in the Geographical 
+Expected: Anywhere in the Geographical 
+
+Line: 409
+Actual: Limits.
+Expected: Limits. 
+
+Line: 410
+Actual: Personal accident benefits 
+Expected: Any member of a party travelling with 
+
+Line: 411
+Actual: Occurrence Level of benefit 
+Expected: Your knowledge and authority  
+
+Line: 412
+Actual: 3-15 years of age 
+Expected: Whilst on a tour organised by You. Anywhere in the Geographical 
+
+Line: 413
+Actual: Level of benefit 
+Expected: Limits. 
+
+Line: 414
+Actual: 16-80 years of age 
+Expected: Personal accident benefits  
+
+Line: 415
+Actual: Death £5,000 £10,000
+Expected: Occurrence  Level of benefit 3-15 
+
+Line: 416
+Actual: Loss of Sight, Loss of Limb(s), 
+Expected: years of age  
+
+Line: 417
+Actual: Loss of Speech or Loss of 
+Expected: Level of benefit  
+
+Line: 418
+Actual: Hearing
+Expected: 16-80 years of age  
+
+Line: 419
+Actual: £10,000 £10,000
+Expected: Death £5,000 £10,000 
+
+Line: 420
+Actual: Permanent Total Disablement £10,000 £10,000
+Expected: Loss of Sight, Loss of Limb(s),  
+
+Line: 421
+Actual: Temporary Total Disablement £10 per week up to 104 weeks. £100 per week up to 104 weeks.
+Expected: Loss of Speech or Loss of  
+
+Line: 422
+Actual: Temporary Partial Disablement £5 per week up to 104 weeks. £50 per week up to 104 weeks.
+Expected: Hearing 
+
+Line: 423
+Actual: Personal accident extensions and limits
+Expected: £10,000 £10,000 
+
+Line: 424
+Actual: Extension  Limits 
+Expected: Permanent Total Disablement £10,000 £10,000 
+
+Line: 425
+Actual: 1.     Hospital benefit and medical expenses
+Expected: Temporary Total Disablement £10 per week up to 104 weeks. £100 per week up to 104 weeks. 
+
+Line: 426
+Actual:         a. Medical expenses
+Expected: Temporary Partial Disablement £5 per week up to 104 weeks. £50 per week up to 104 weeks. 
+
+Line: 427
+Actual:         b. Hospital in-patient treatment benefit
+Expected: Personal accident extensions and limits 
+
+Line: 428
+Actual: a. £2,500
+Expected: Extension   Limits  
+
+Line: 429
+Actual: b. £20 a day up to £200
+Expected: 1.     Hospital benefit and medical expenses 
+
+Line: 430
+Actual: 2.     Clothing and personal belongings £1,000 per person. 
+Expected: a. Medical expenses 
+
+Line: 431
+Actual: 3.     Loss of deposits £500 per person. 
+Expected: b. Hospital in-patient treatment benefit 
+
+Line: 432
+Actual: 4.     Assault £5,000 per person. 
+Expected: a. £2,500 
+
+Line: 433
+Actual: 5.     Disappearance Up to the death benefit.
+Expected: b. £20 a day up to £200 
+
+Line: 434
+Actual: 6.     Exposure Up to the limits in the benefit table. 
+Expected: 2.     Clothing and personal belongings  £1,000 per person.  
+
+Line: 435
+Actual: 7.     Paralysis 
+Expected: 3.     Loss of deposits  £500 per person.  
+
+Line: 436
+Actual:         a. Quadriplegia
+Expected: 4.     Assault  £5,000 per person.  
+
+Line: 437
+Actual:         b. Paraplegia
+Expected: 5.     Disappearance  Up to the death benefit. 
+
+Line: 438
+Actual: a. Additional 20% of permanent total disablement benefit.
+Expected: 6.     Exposure Up to the limits in the benefit table.  
+
+Line: 439
+Actual: b. Additional 10% of permanent total disablement benefit. 
+Expected: 7.     Paralysis  
+
+Line: 440
+Actual: Parish Plus Policy Pack
+Expected: a. Quadriplegia 
+
+Line: 441
+Actual: Policy Schedule
+Expected: b. Paraplegia 
+
+Line: 442
+Actual: Policy Number P-1000045722/00
+Expected: a. Additional 20% of permanent total disablement benefit. 
+
+Line: 443
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: b. Additional 10% of permanent total disablement benefit.  
+
+Line: 444
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: Appendix 1 – clauses 
+
+Line: 445
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: The following clauses apply to Your Policy. The schedule confirms which clauses apply to each premises or sections 
+
+Line: 446
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: of cover.  
+
+Line: 447
+Actual: Page 11 of 18
+Expected: Parish Plus Policy Pack  
+
+Line: 448
+Actual: Appendix 1 – clauses
+Expected: Policy Schedule 
+
+Line: 449
+Actual: The following clauses apply to Your Policy. The schedule confirms which clauses apply to each premises or sections 
+Expected: Policy Number P-1000045722/00 
+
+Line: 450
+Actual: of cover. 
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 451
+Actual: SPOL1 Theft of external metal condition
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 452
+Actual: It is a condition precedent to Our liability in respect of cover for theft of external metal and cover for any subsequent 
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 453
+Actual: Damage arising as a result of the theft of external metal, that You have:
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 454
+Actual: 1. protected the external metal of the Buildings with SmartWater or an alternative forensic marking system agreed by 
+Expected: Page 10 of 16 
+
+Line: 455
+Actual: Us; 
+Expected: SPOL1 Theft of external metal condition 
+
+Line: 456
+Actual: 2. displayed the associated signage; and 
+Expected: It is a condition precedent to Our liability in respect of cover for theft of external metal and cover for any subsequent 
+
+Line: 457
+Actual: 3. registered the use with SmartWater Technology Limited or the alternative provider.
+Expected: Damage arising as a result of the theft of external metal, that You have: 
+
+Line: 458
+Actual: If You fail to comply with this condition We will not pay Your claim.
+Expected: 1. protected the external metal of the Buildings with SmartWater or an alternative forensic marking system agreed by  
+
+Line: 459
+Actual: SPOL7  Amendment to Inflation protection
+Expected: Us;  
+
+Line: 460
+Actual: Applicable to the Property damage section.
+Expected: 2. displayed the associated signage; and  
+
+Line: 461
+Actual: Under 'Basis of settlement' the Inflation protection wording is deleted and replaced with the following:
+Expected: 3. registered the use with SmartWater Technology Limited or the alternative provider. 
+
+Line: 462
+Actual: Inflation protection
+Expected: If You fail to comply with this condition We will not pay Your claim. 
+
+Line: 463
+Actual: The Loss limit under this section (but not the extension limits) will be adjusted in line with either a relevant price index 
+Expected: SPOL7  Amendment to Inflation protection 
+
+Line: 464
+Actual: or the Ecclesiastical church valuation system as We deem appropriate.
+Expected: Applicable to the Property damage section. 
+
+Line: 465
+Actual: The annual renewal premium will be amended accordingly.
+Expected: Under 'Basis of settlement' the Inflation protection wording is deleted and replaced with the following: 
+
+Line: 466
+Actual: In the event of Damage, inflation protection in respect of the outstanding portion of the claim will continue from the 
+Expected: Inflation protection 
+
+Line: 467
+Actual: date of Damage until the resulting claim is settled, but We will not pay for increased costs which arise due to 
+Expected: The Loss limit under this section (but not the extension limits) will be adjusted in line with either a relevant price index 
+
+Line: 468
+Actual: unnecessary delay by You.
+Expected: or the Ecclesiastical church valuation system as We deem appropriate. 
+
+Line: 469
+Actual: SPOL8 Infectious or communicable disease exclusion
+Expected: The annual renewal premium will be amended accordingly. 
+
+Line: 470
+Actual: Definition specific to this exclusion 
+Expected: In the event of Damage, inflation protection in respect of the outstanding portion of the claim will continue from the 
+
+Line: 471
+Actual: Infectious or Communicable Disease
+Expected: date of Damage until the resulting claim is settled, but We will not pay for increased costs which arise due to 
+
+Line: 472
+Actual: Any disease pandemic or epidemic including but not limited to any 
+Expected: unnecessary delay by You. 
+
+Line: 473
+Actual: - virus 
+Expected: SPOL8 Infectious or communicable disease exclusion 
+
+Line: 474
+Actual: - bacterium 
+Expected: Definition specific to this exclusion  
+
+Line: 475
+Actual: - parasite 
+Expected: Infectious or Communicable Disease 
+
+Line: 476
+Actual: - other organism or infectious matter 
+Expected: Any disease pandemic or epidemic including but not limited to any  
+
+Line: 477
+Actual: Parish Plus Policy Pack
+Expected: - virus  
+
+Line: 478
+Actual: Policy Schedule
+Expected: - bacterium  
+
+Line: 479
+Actual: Policy Number P-1000045722/00
+Expected: - parasite  
+
+Line: 480
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: - other organism or infectious matter  
+
+Line: 481
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: - any mutation or variation to any of the above whether  
+
+Line: 482
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: - living or dead  
+
+Line: 483
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: - natural or artificial  
+
+Line: 484
+Actual: Page 12 of 18
+Expected: Parish Plus Policy Pack  
+
+Line: 485
+Actual: - any mutation or variation to any of the above 
+Expected: Policy Schedule 
+
+Line: 486
+Actual: whether 
+Expected: Policy Number P-1000045722/00 
+
+Line: 487
+Actual: - living or dead 
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 488
+Actual: - natural or artificial 
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 489
+Actual: - officially declared an epidemic or pandemic or not 
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 490
+Actual: transmitted by any direct or indirect means (whether asymptomatic or not)
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 491
+Actual: This policy does not cover loss damage liability cost expense or any other sum of whatsoever nature directly or 
+Expected: Page 11 of 16 
+
+Line: 492
+Actual: indirectly caused by resulting from arising out of or related to or contributed to by 
+Expected: - officially declared an epidemic or pandemic or not transmitted by any direct or indirect means (whether asymptomatic 
+
+Line: 493
+Actual: 1. any Infectious or Communicable Disease including but not limited to
+Expected: or not) 
+
+Line: 494
+Actual: a. the fear of a threat (whether actual or perceived) from an Infectious or Communicable Disease
+Expected: This policy does not cover loss damage liability cost expense or any other sum of whatsoever nature directly or 
+
+Line: 495
+Actual: b. contamination or fear of contamination (whether actual or perceived) of property by an Infectious or 
+Expected: indirectly caused by resulting from arising out of or related to or contributed to by  
+
+Line: 496
+Actual: Communicable Disease
+Expected: 1. any Infectious or Communicable Disease including but not limited to 
+
+Line: 497
+Actual: but this shall not exclude direct physical loss or physical damage to insured property at the Premises occurring during 
+Expected: a. the fear of a threat (whether actual or perceived) from an Infectious or Communicable Disease 
+
+Line: 498
+Actual: the Period of Insurance resulting directly or indirectly from or caused by a peril otherwise insured by this policy
+Expected: b. contamination or fear of contamination (whether actual or perceived) of property by an Infectious or 
+
+Line: 499
+Actual: 2. any action taken or failure to take action to prevent control or respond to any Infectious or Communicable 
+Expected: Communicable Disease 
+
+Line: 500
+Actual: Disease
+Expected: but this shall not exclude direct physical loss or physical damage to insured property at the Premises occurring during 
+
+Line: 501
+Actual: Provided that
+Expected: the Period of Insurance resulting directly or indirectly from or caused by a peril otherwise insured by this policy 
+
+Line: 502
+Actual: i. this exclusion applies regardless of any concurrent or contributory cause or event or occurrence in any sequence 
+Expected: 2. any action taken or failure to take action to prevent control or respond to any Infectious or Communicable 
+
+Line: 503
+Actual: with any other cause or event
+Expected: Disease 
+
+Line: 504
+Actual: ii. in the event of any conflict between this exclusion and any other provision of this policy this exclusion shall always 
+Expected: Provided that 
+
+Line: 505
+Actual: apply and take precedence over any such other provision
+Expected: i. this exclusion applies regardless of any concurrent or contributory cause or event or occurrence in any 
+
+Line: 506
+Actual: iii. where We apply this exclusion the burden of proving the contrary rests with the Insured
+Expected: sequence with any other cause or event 
+
+Line: 507
+Actual: iv. this exclusion applies to all cover sections of this policy except those covers (where available and insured by this 
+Expected: ii. in the event of any conflict between this exclusion and any other provision of this policy this exclusion shall 
+
+Line: 508
+Actual: policy) noted below
+Expected: always apply and take precedence over any such other provision iii. where We apply this exclusion the burden of 
+
+Line: 509
+Actual: a. Employers' liability
+Expected: proving the contrary rests with the Insured 
+
+Line: 510
+Actual: b. Public liability
+Expected: iv. this exclusion applies to all cover sections of this policy except those covers (where available and insured by this 
+
+Line: 511
+Actual: c. Medical malpractice
+Expected: policy) noted below 
+
+Line: 512
+Actual: d. Reputational risks
+Expected: a. Employers' liability 
+
+Line: 513
+Actual: e. Professional indemnity
+Expected: b. Public liability 
+
+Line: 514
+Actual: f. Governors' trustees' and management liability
+Expected: c. Medical malpractice 
+
+Line: 515
+Actual: g. Directors & officers liability
+Expected: d. Reputational risks 
+
+Line: 516
+Actual: h. Personal accident
+Expected: e. Professional indemnity 
+
+Line: 517
+Actual: i. Legal expenses
+Expected: f. Governors' trustees' and management liability 
+
+Line: 518
+Actual: j. Travel
+Expected: g. Directors & officers liability 
+
+Line: 519
+Actual: Parish Plus Policy Pack
+Expected: h. Personal accident 
+
+Line: 520
+Actual: Policy Schedule
+Expected: i. Legal expenses 
+
+Line: 521
+Actual: Policy Number P-1000045722/00
+Expected: j. Travel 
+
+Line: 522
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: k. Terrorism 
+
+Line: 523
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: Parish Plus Policy Pack  
+
+Line: 524
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Policy Schedule 
+
+Line: 525
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Policy Number P-1000045722/00 
+
+Line: 526
+Actual: Page 13 of 18
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 527
+Actual: k. Terrorism
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 528
+Actual: SPOL9 Prevention of access – Non-damage
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 529
+Actual: Business Interruption – Amendment to Prevention of access – Non-damage cover – applicable to any section of the 
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 530
+Actual: policy covering business interruption loss of income loss of revenue consequential loss or rental income 
+Expected: Page 12 of 16 
+
+Line: 531
+Actual: Any extension that provides cover for prevention of access (non-damage) is deleted and replaced with the following 
+Expected: SPOL9 Prevention of access – Non-damage 
+
+Line: 532
+Actual: Prevention of access – Non-damage 
+Expected: Business Interruption – Amendment to Prevention of access – Non-damage cover – applicable to any section of the 
+
+Line: 533
+Actual: Access to or use of the Premises being prevented or hindered by 
+Expected: policy covering business interruption loss of income loss of revenue consequential loss or rental income  
+
+Line: 534
+Actual: a. any action of government police or a local authority due to an emergency which could endanger human life or 
+Expected: Any extension that provides cover for prevention of access (non-damage) is deleted and replaced with the following 
+
+Line: 535
+Actual: neighbouring property 
+Expected: Prevention of access – Non-damage  
+
+Line: 536
+Actual: b. any bomb scare at or in the vicinity of the Premises 
+Expected: Access to or use of the Premises being prevented or hindered by  
+
+Line: 537
+Actual: Excluding 
+Expected: a. any action of government police or a local authority due to an emergency which could endanger human life or 
+
+Line: 538
+Actual: i. any restriction of use of less than 4 hours 
+Expected: neighbouring property  
+
+Line: 539
+Actual: ii. any period when access to the Premises was not prevented or hindered 
+Expected: b. any bomb scare at or in the vicinity of the Premises  
+
+Line: 540
+Actual: iii. closure or restriction in the use of the Premises due to the order or advice of the competent local authority as a 
+Expected: Excluding  
+
+Line: 541
+Actual: result of an occurrence of food poisoning defective drains or other sanitary arrangements 
+Expected: i. any restriction of use of less than 4 hours ii. any period when access to 
+
+Line: 542
+Actual: iv. closure or restriction in the use of the Premises due to Vermin 
+Expected: the Premises was not prevented or hindered  
+
+Line: 543
+Actual: Limit 
+Expected: iii. closure or restriction in the use of the Premises due to the order or advice of the competent local authority as a 
+
+Line: 544
+Actual: £10,000 in the Period of Insurance 
+Expected: result of an occurrence of food poisoning defective drains or other sanitary arrangements iv. closure or restriction 
+
+Line: 545
+Actual: Special conditions 
+Expected: in the use of the Premises due to Vermin  
+
+Line: 546
+Actual: 1. For the purpose of part b. of this extension the Terrorism exclusion does not apply 
+Expected: Limit  
+
+Line: 547
+Actual: 2. The maximum indemnity period under this extension will not exceed 3 months
+Expected: £10,000 in the Period of Insurance  
+
+Line: 548
+Actual: SPOL10 Food poisoning defective sanitation vermin murder or suicide extension
+Expected: Special conditions  
+
+Line: 549
+Actual: Business Interruption – Removal of Specified diseases cover – applicable to any section of the policy covering 
+Expected: 1. For the purpose of part b. of this extension the Terrorism exclusion does not apply  
+
+Line: 550
+Actual: business interruption loss of income loss of revenue consequential loss or rental income
+Expected: 2. The maximum indemnity period under this extension will not exceed 3 months 
+
+Line: 551
+Actual: Any extension that provides cover for specified diseases murder suicide food poisoning defective sanitation & vermin 
+Expected: SPOL10 Food poisoning defective sanitation vermin murder or suicide extension 
+
+Line: 552
+Actual: is deleted and replaced with the following
+Expected: Business Interruption – Removal of Specified diseases cover – applicable to any section of the policy covering 
+
+Line: 553
+Actual: Food poisoning defective sanitation vermin murder or suicide extension
+Expected: business interruption loss of income loss of revenue consequential loss or rental income 
+
+Line: 554
+Actual: The prevention or restriction of access to or closure of the Premises on the order or advice of the Police 
+Expected: Any extension that provides cover for specified diseases murder suicide food poisoning defective sanitation & vermin 
+
+Line: 555
+Actual: Environmental Health or other similar enforcement agency as a direct consequence of
+Expected: is deleted and replaced with the following 
+
+Line: 556
+Actual: a. any injury or illness sustained by any person arising from or traceable to food or drink poisoning which is directly 
+Expected: Food poisoning defective sanitation vermin murder or suicide extension 
+
+Line: 557
+Actual: traceable to food or drink provided at the Premises
+Expected: The prevention or restriction of access to or closure of the Premises on the order or advice of the Police  
+
+Line: 558
+Actual: Parish Plus Policy Pack
+Expected: Environmental Health or other similar enforcement agency as a direct consequence of 
+
+Line: 559
+Actual: Policy Schedule
+Expected: a. any injury or illness sustained by any person arising from or traceable to food or drink poisoning which is directly 
+
+Line: 560
+Actual: Policy Number P-1000045722/00
+Expected: traceable to food or drink provided at the Premises 
+
+Line: 561
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: b. any accident causing defects in drains or other sanitary arrangements at the Premises 
+
+Line: 562
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: c. any discovery of vermin at the Premises 
+
+Line: 563
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: d. murder rape or suicide at the Premises 
+
+Line: 564
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Parish Plus Policy Pack  
+
+Line: 565
+Actual: Page 14 of 18
+Expected: Policy Schedule 
+
+Line: 566
+Actual: b. any accident causing defects in drains or other sanitary arrangements at the Premises
+Expected: Policy Number P-1000045722/00 
+
+Line: 567
+Actual: c. any discovery of vermin at the Premises
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 568
+Actual: d. murder rape or suicide at the Premises
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 569
+Actual: Provided that
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 570
+Actual: - We shall only be liable for the loss arising at premises You occupy and which are directly affected by the occurrence 
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 571
+Actual: discovery or accident
+Expected: Page 13 of 16 
+
+Line: 572
+Actual: - Extensions which deem Damage at other locations to be Damage at the Premises shall not apply to this cover
+Expected: Provided that 
+
+Line: 573
+Actual: Excluding any costs incurred in the cleaning repair replacement recall or checking of property
+Expected: - We shall only be liable for the loss arising at premises You occupy and which are directly affected by the occurrence 
+
+Line: 574
+Actual: Limit
+Expected: discovery or accident 
+
+Line: 575
+Actual: Our liability under this extension in respect of any one occurrence discovery or accident shall not exceed the sum 
+Expected: - Extensions which deem Damage at other locations to be Damage at the Premises shall not apply to this cover 
+
+Line: 576
+Actual: insured by the items or the limit of Our liability by the items if the declaration-linked basis applies
+Expected: Excluding any costs incurred in the cleaning repair replacement recall or checking of property 
+
+Line: 577
+Actual: Condition
+Expected: Limit 
+
+Line: 578
+Actual: The maximum indemnity period under this extension will not exceed 3 months
+Expected: Our liability under this extension in respect of any one occurrence discovery or accident shall not exceed the sum 
+
+Line: 579
+Actual: SPOL11 Long Term Undertaking and Rate Stability amendment
+Expected: insured by the items or the limit of Our liability by the items if the declaration-linked basis applies Condition 
+
+Line: 580
+Actual: Amendment to Long Term Undertaking and Rate Stability Agreement Policy condition.
+Expected: The maximum indemnity period under this extension will not exceed 3 months 
+
+Line: 581
+Actual: The line which reads ''If We make adjustments in accordance with iii. above You are released from this Agreement'' is 
+Expected: SPOL11 Long Term Undertaking and Rate Stability amendment 
+
+Line: 582
+Actual: deleted and replaced with the following:
+Expected: Amendment to Long Term Undertaking and Rate Stability Agreement Policy condition. 
+
+Line: 583
+Actual: If We give You notice of Our intention to make adjustments in accordance with iii. a. to iii d. You may choose to either:
+Expected: The line which reads ''If We make adjustments in accordance with iii. above You are released from this Agreement'' is 
+
+Line: 584
+Actual: (1) accept the adjustments and agree to continue this Agreement to the expiry of the Period of Agreement or;
+Expected: deleted and replaced with the following: 
+
+Line: 585
+Actual: (2) cancel this Agreement provided that You exercise Your right to cancel within 28 calendar days of receipt of such 
+Expected: If We give You notice of Our intention to make adjustments in accordance with iii. a. to iii d. You may choose to either: 
+
+Line: 586
+Actual: notice or by Your renewal date whichever is sooner, failing which this Agreement shall continue throughout the Period 
+Expected: (1) accept the adjustments and agree to continue this Agreement to the expiry of the Period of Agreement or; 
+
+Line: 587
+Actual: of Agreement.
+Expected: (2) cancel this Agreement provided that You exercise Your right to cancel within 28 calendar days of receipt of such 
+
+Line: 588
+Actual: SPOL12 Cyber loss limited exclusion clause
+Expected: notice or by Your renewal date whichever is sooner, failing which this Agreement shall continue throughout the 
+
+Line: 589
+Actual: EXPLANATORY NOTE: NOT FORMING PART OF YOUR POLICY
+Expected: Period of Agreement. 
+
+Line: 590
+Actual: When property insurance policies were developed computer and cyber risks were rare or did not exist; therefore no 
+Expected: SPOL12 Cyber loss limited exclusion clause 
+
+Line: 591
+Actual: specific exclusionary language was necessary at that time. As computer technology has evolved, allied with the 
+Expected: EXPLANATORY NOTE: NOT FORMING PART OF YOUR POLICY 
+
+Line: 592
+Actual: growth of the internet and connectivity, exposure to cyber events has increased significantly. As cyber risks have not 
+Expected: When property insurance policies were developed computer and cyber risks were rare or did not exist; therefore no 
+
+Line: 593
+Actual: been insured by standard property insurances, premiums have never included such cyber risks. To cater for these 
+Expected: specific exclusionary language was necessary at that time. As computer technology has evolved, allied with the growth 
+
+Line: 594
+Actual: new risks specific Cyber insurance covers (via a specific policy or section within a policy) have been developed, which 
+Expected: of the internet and connectivity, exposure to cyber events has increased significantly. As cyber risks have not been 
+
+Line: 595
+Actual: may be purchased separately.
+Expected: insured by standard property insurances, premiums have never included such cyber risks. To cater for these new risks 
+
+Line: 596
+Actual: Following improved clarity and contract certainty in the reinsurance market as regards cyber risks, we are providing 
+Expected: specific Cyber insurance covers (via a specific policy or section within a policy) have been developed, which may be 
+
+Line: 597
+Actual: similar clarification under your policy through the following clause (which does form part of your policy).
+Expected: purchased separately. 
+
+Line: 598
+Actual: Parish Plus Policy Pack
+Expected: Following improved clarity and contract certainty in the reinsurance market as regards cyber risks, we are providing 
+
+Line: 599
+Actual: Policy Schedule
+Expected: similar clarification under your policy through the following clause (which does form part of your policy). 
+
+Line: 600
+Actual: Policy Number P-1000045722/00
+Expected: ENDORSEMENT FORMING PART OF YOUR POLICY 
+
+Line: 601
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: The following endorsement is applied to your policy and overrides any existing Electronic risks exclusion applicable to 
+
+Line: 602
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: the relevant sections 
+
+Line: 603
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: SPOL12 Cyber loss limited exclusion clause (Property) 
+
+Line: 604
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Parish Plus Policy Pack  
+
+Line: 605
+Actual: Page 15 of 18
+Expected: Policy Schedule 
+
+Line: 606
+Actual: ENDORSEMENT FORMING PART OF YOUR POLICY
+Expected: Policy Number P-1000045722/00 
+
+Line: 607
+Actual: The following endorsement is applied to your policy and overrides any existing Electronic risks exclusion applicable to 
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 608
+Actual: the relevant sections
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 609
+Actual: SPOL12 Cyber loss limited exclusion clause (Property)
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 610
+Actual: 1. Notwithstanding any provision to the contrary within this policy or any endorsement thereto this policy excludes all 
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 611
+Actual: loss damage liability cost or expense of whatsoever nature directly or indirectly caused by contributed to by or 
+Expected: Page 14 of 16 
+
+Line: 612
+Actual: resulting from arising out of or in any connection with
+Expected: 1. Notwithstanding any provision to the contrary within this policy or any endorsement thereto this policy 
+
+Line: 613
+Actual: 1.1. any unauthorised access to or loss of alteration of or damage to or a reduction in the functionality availability or 
+Expected: excludes all loss damage liability cost or expense of whatsoever nature directly or indirectly caused by contributed to 
+
+Line: 614
+Actual: operation of a Computer System or any unauthorised access to or modification of Data
+Expected: by or resulting from arising out of or in any connection with 
+
+Line: 615
+Actual: Notwithstanding the provisions of this sub-paragraph 1.1. and subject to all other terms and conditions and exclusions 
+Expected: 1.1. any unauthorised access to or loss of alteration of or damage to or a reduction in the functionality availability or 
+
+Line: 616
+Actual: contained in this policy this policy will provide cover for physical loss of or physical damage to property insured under 
+Expected: operation of a Computer System or any unauthorised access to or modification of Data 
+
+Line: 617
+Actual: this policy (not including Data) and any Time Element Loss directly resulting therefrom where such physical loss or 
+Expected: Notwithstanding the provisions of this sub-paragraph 1.1. and subject to all other terms and conditions and exclusions 
+
+Line: 618
+Actual: physical damage is directly occasioned by any of the following perils provided always that such perils are otherwise 
+Expected: contained in this policy this policy will provide cover for physical loss of or physical damage to property insured under 
+
+Line: 619
+Actual: insured by this policy
+Expected: this policy (not including Data) and any Time Element Loss directly resulting therefrom where such physical loss or 
+
+Line: 620
+Actual: i. Fire lightning or explosion
+Expected: physical damage is directly occasioned by any of the following perils provided always that such perils are otherwise 
+
+Line: 621
+Actual: ii. Impact by aircraft or vehicle or animal or falling objects
+Expected: insured by this policy 
+
+Line: 622
+Actual: iii. Wind storm hail tornado cyclone hurricane earthquake volcano tsunami flood freeze or weight of snow
+Expected: i. Fire lightning or explosion ii. Impact by aircraft or vehicle or animal or falling objects iii. Wind storm hail 
+
+Line: 623
+Actual: iv. Escape of water or oil
+Expected: tornado cyclone hurricane earthquake volcano tsunami flood freeze or weight of snow iv. Escape of 
+
+Line: 624
+Actual: v. Riot or civil commotion
+Expected: water or oil 
+
+Line: 625
+Actual: vi. Subsidence heave or landslip
+Expected: v. Riot or civil commotion 
+
+Line: 626
+Actual: vii. Theft or loss of insured property caused by persons physically present at both the time and location of such theft or 
+Expected: Subsidence heave or landslip 
+
+Line: 627
+Actual: loss
+Expected: vii. Theft or loss of insured property caused by persons physically present at both the time and location of such 
+
+Line: 628
+Actual: viii. Vandalism or malicious acts causing physical damage to insured property caused by persons physically present 
+Expected: theft or loss 
+
+Line: 629
+Actual: at both the time and location of such damage
+Expected: viii. Vandalism or malicious acts causing physical damage to insured property caused by persons physically 
+
+Line: 630
+Actual: ix. Accidental damage to insured property caused by persons physically present at both the time and location of such 
+Expected: present at both the time and location of such damage check test error 
+
+Line: 631
+Actual: damage
+Expected: ix. Accidental damage to insured property caused by persons physically present at both the time and location of 
+
+Line: 632
+Actual: 1.2. any loss of use reduction in functionality repair replacement restoration or reproduction of any Data including any 
+Expected: such damage 
+
+Line: 633
+Actual: amount pertaining to the value of such Data
+Expected: 1.2. any loss of use reduction in functionality repair replacement restoration or reproduction of any Data 
+
+Line: 634
+Actual: Notwithstanding the provisions of this sub-paragraph 1.2. in the event that hardware or the data storage device of a 
+Expected: including any amount pertaining to the value of such Data 
+
+Line: 635
+Actual: Computer System insured under this policy sustains physical damage caused by a peril described in the proviso to 
+Expected: Notwithstanding the provisions of this sub-paragraph 1.2. in the event that hardware or the data storage device of a 
+
+Line: 636
+Actual: paragraph 1.1. above which results in damage to or loss of Data stored on that hardware or the data storage device 
+Expected: Computer System insured under this policy sustains physical damage caused by a peril described in the proviso to 
+
+Line: 637
+Actual: then the damage to or loss of such Data shall be recoverable hereunder and the basis of valuation for the recovery of 
+Expected: paragraph 1.1. above which results in damage to or loss of Data stored on that hardware or the data storage device 
+
+Line: 638
+Actual: the damaged or lost Data under this policy shall be limited to the cost of reproducing Data provided that such costs 
+Expected: then the damage to or loss of such Data shall be recoverable hereunder and the basis of valuation for the recovery of 
+
+Line: 639
+Actual: are otherwise indemnifiable under this policy
+Expected: the damaged or lost Data under this policy shall be limited to the cost of reproducing Data provided that such costs 
+
+Line: 640
+Actual: Such costs shall include all reasonable and necessary expenses incurred in re-creating gathering and assembling 
+Expected: are otherwise indemnifiable under this policy 
+
+Line: 641
+Actual: such Data but shall not include the value of the Data whether to the Insured or any other party even if such Data 
+Expected: Such costs shall include all reasonable and necessary expenses incurred in re-creating gathering and assembling 
+
+Line: 642
+Actual: cannot be recreated gathered or assembled
+Expected: such Data but shall not include the value of the Data whether to the Insured or any other party even if such Data 
+
+Line: 643
+Actual: 1.3. any
+Expected: cannot be recreated gathered or assembled 
+
+Line: 644
+Actual: i. Unauthorised appropriation of Data
+Expected: 1.3. any 
+
+Line: 645
+Actual: Parish Plus Policy Pack
+Expected: i. Unauthorised appropriation of Data 
+
+Line: 646
+Actual: Policy Schedule
+Expected: ii. Unauthorised transmission of Data to any Third Party iii. Misrepresentation or use or 
+
+Line: 647
+Actual: Policy Number P-1000045722/00
+Expected: mis-use of Data iv. Operator error in respect of Data 
+
+Line: 648
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: 1.4. any threat to carry out or perpetrate a hoax in respect of anything described in sub-paragraphs 1.1. – 1.3. 
+
+Line: 649
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: above 
+
+Line: 650
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: 1.5. any action taken or failure to take action to prevent control limit or respond to anything described in sub-
+
+Line: 651
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: paragraphs 1.1. – 1.4. above 
+
+Line: 652
+Actual: Page 16 of 18
+Expected: Parish Plus Policy Pack  
+
+Line: 653
+Actual: ii. Unauthorised transmission of Data to any Third Party
+Expected: Policy Schedule 
+
+Line: 654
+Actual: iii. Misrepresentation or use or mis-use of Data
+Expected: Policy Number P-1000045722/00 
+
+Line: 655
+Actual: iv. Operator error in respect of Data
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 656
+Actual: 1.4. any threat to carry out or perpetrate a hoax in respect of anything described in sub-paragraphs 1.1. – 1.3. above
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 657
+Actual: 1.5. any action taken or failure to take action to prevent control limit or respond to anything described in sub-
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 658
+Actual: paragraphs 1.1. – 1.4. above
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 659
+Actual: Definitions specific to this exclusion
+Expected: Page 15 of 16 
+
+Line: 660
+Actual: Computer System 
+Expected: Definitions specific to this exclusion 
+
+Line: 661
+Actual: Any computer hardware software communications system electronic device (including but not limited to smart phone 
+Expected: Computer System  
+
+Line: 662
+Actual: laptop tablet wearable device) server cloud or microcontroller including any similar system or any configuration of the 
+Expected: Any computer hardware software communications system electronic device (including but not limited to smart phone 
+
+Line: 663
+Actual: aforementioned and including any associated input output data storage device networking equipment or back up 
+Expected: laptop tablet wearable device) server cloud or microcontroller including any similar system or any configuration of the 
+
+Line: 664
+Actual: facility
+Expected: aforementioned and including any associated input output data storage device networking equipment or back up 
+
+Line: 665
+Actual: Data 
+Expected: facility 
+
+Line: 666
+Actual: Information facts concepts code or any other information of any kind that is recorded or transmitted in a form to be 
+Expected: Data  
+
+Line: 667
+Actual: used accessed processed transmitted or stored by a Computer System
+Expected: Information facts concepts code or any other information of any kind that is recorded or transmitted in a form to be 
+
+Line: 668
+Actual: Time Element Loss 
+Expected: used accessed processed transmitted or stored by a Computer System 
+
+Line: 669
+Actual: Business interruption contingent business interruption or any other consequential losses
+Expected: Time Element Loss  
+
+Line: 670
+Actual: This exclusion applies to all cover sections of this policy except those covers (where available and insured by this 
+Expected: Business interruption contingent business interruption or any other consequential losses 
+
+Line: 671
+Actual: policy) noted below
+Expected: This exclusion applies to all cover sections of this policy except those covers (where available and insured by this 
+
+Line: 672
+Actual: a. Employers' liability
+Expected: policy) noted below 
+
+Line: 673
+Actual: b. Public liability
+Expected: a. Employers' liability 
+
+Line: 674
+Actual: c. Medical malpractice
+Expected: b. Public liability 
+
+Line: 675
+Actual: d. Reputational risks
+Expected: c. Medical malpractice 
+
+Line: 676
+Actual: e. Professional indemnity
+Expected: d. Reputational risks 
+
+Line: 677
+Actual: f. Governors' trustees' and management liability
+Expected: e. Professional indemnity 
+
+Line: 678
+Actual: g. Directors & officers liability
+Expected: f. Governors' trustees' and management liability 
+
+Line: 679
+Actual: h. Personal accident
+Expected: g. Directors & officers liability 
+
+Line: 680
+Actual: i. Legal expenses
+Expected: h. Personal accident 
+
+Line: 681
+Actual: j. Travel
+Expected: i. Legal expenses 
+
+Line: 682
+Actual: k. Terrorism
+Expected: j. Travel 
+
+Line: 683
+Actual: l. Cyber
+Expected: k. Terrorism 
+
+Line: 684
+Actual: m. Equipment breakdown
+Expected: l. Cyber 
+
+Line: 685
+Actual: Parish Plus Policy Pack
+Expected: m. Equipment breakdown 
+
+Line: 686
+Actual: Policy Schedule
+Expected: SPOL13 Liabilities section – Cyber exclusion and Data Protection Act extension 
+
+Line: 687
+Actual: Policy Number P-1000045722/00
+Expected: amendment 
+
+Line: 688
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: Definitions 
+
+Line: 689
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: The definitions of Data and Property are deleted and replaced with the following: 
+
+Line: 690
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: Data 
+
+Line: 691
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: Information, facts, concepts, code or any other information of any kind that is recorded or transmitted in a form to be 
+
+Line: 692
+Actual: Page 17 of 18
+Expected: used, accessed, processed, transmitted or stored by a Computer System. Property 
+
+Line: 693
+Actual: SPOL13 Liabilities section – Cyber exclusion and Data Protection Act extension 
+Expected: Material property. 
+
+Line: 694
+Actual: amendment
+Expected: Parish Plus Policy Pack  
+
+Line: 695
+Actual: Definitions
+Expected: Policy Schedule 
+
+Line: 696
+Actual: The definitions of Data and Property are deleted and replaced with the following:
+Expected: Policy Number P-1000045722/00 
+
+Line: 697
+Actual: Data
+Expected: Date of issue 16 August 2022  Effective from 16 August 2022 
+
+Line: 698
+Actual: Information, facts, concepts, code or any other information of any kind that is recorded or transmitted in a form to be 
+Expected: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park,  
+
+Line: 699
+Actual: used, accessed, processed, transmitted or stored by a Computer System.
+Expected: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+
+Line: 700
+Actual: Property
+Expected: and the Prudential Regulation Authority. Firm Reference Number 113848. 
+
+Line: 701
+Actual: Material property.
+Expected: Page 16 of 16 
+
+Line: 702
+Actual: The following definitions are added:
+Expected: The following definitions are added: 
+
+Line: 703
+Actual: Cyber Act
+Expected: Cyber Act 
+
+Line: 706
+Actual: System.
+Expected: System. 
+
+Line: 707
+Actual: Cyber Incident
+Expected: Cyber Incident 
+
+Line: 708
+Actual: 1. Any error or omission or series of related errors or omissions involving access to, processing of, use of or operation 
+Expected: 1. Any error or omission or series of related errors or omissions involving access to, processing of, use of or 
+
+Line: 709
+Actual: of any Computer System; or
+Expected: operation of any Computer System; or 
+
+Line: 711
+Actual: process, use or operate any Computer System.
+Expected: process, use or operate any Computer System. 
+
+Line: 712
+Actual: Computer System
+Expected: Computer System 
+
+Line: 716
+Actual: equipment or back up facility.
+Expected: equipment or back up facility. 
+
+Line: 717
+Actual: The following exclusion applies:
+Expected: The following exclusion applies: 
+
+Line: 718
+Actual: What is not covered - applicable to the Liabilities section
+Expected: What is not covered - applicable to the Liabilities section 
+
+Line: 721
+Actual: extension and What is covered paragraph c. of the Professional counselling services extension.)
+Expected: extension and What is covered paragraph c. of the Professional counselling services extension.) 
+
+Line: 726
+Actual: sequence thereto.
+Expected: sequence thereto. 
+
+Line: 727
+Actual: This exclusion will not apply to legal liability to pay damages and Legal Costs resulting from:
+Expected: This exclusion will not apply to legal liability to pay damages and Legal Costs resulting from: 
+
+Line: 728
+Actual: 1. statutory liability under the Employers’ Liability cover;
+Expected: 1. statutory liability under the Employers’ Liability cover; 
+
+Line: 729
+Actual: Parish Plus Policy Pack
+Expected: 2. liability caused by or arising out of a Cyber Act or a Cyber Incident that results in Injury to third parties or physical 
+
+Line: 730
+Actual: Policy Schedule
+Expected: damage to third party Property; 
+
+Line: 731
+Actual: Policy Number P-1000045722/00
+Expected: 3. liability arising under the Data Protection extension. 
+
+Line: 732
+Actual: Date of issue 16 August 2022  Effective from 16 August 2022
+Expected: Any loss, damage, liability, claim, cost or expense of whatsoever nature directly or indirectly caused by, contributed to 
+
+Line: 733
+Actual: Ecclesiastical Insurance Office plc (EIO) Reg. No. 24869. Registered in England at Benefact House, 2000 Pioneer Avenue, Gloucester Business Park, 
+Expected: by, resulting from, arising out of or in connection with any loss of use, reduction in functionality, repair, replacement, 
+
+Line: 734
+Actual: Brockworth, Gloucester, GL3 4AW, United Kingdom. EIO is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority 
+Expected: restoration or reproduction of any Data, including any amount pertaining to the value of such Data is not covered and 
+
+Line: 735
+Actual: and the Prudential Regulation Authority. Firm Reference Number 113848.
+Expected: is not considered as physical loss or damage for the purposes of this exclusion. 
+
+Line: 736
+Actual: Page 18 of 18
+Expected: The following amendment is made to the Data Protection extension: 
+
+Line: 737
+Actual: 2. liability caused by or arising out of a Cyber Act or a Cyber Incident that results in Injury to third parties or physical 
+Expected: Data Protection extension – amendment to limit 
+
+Line: 738
+Actual: damage to third party Property;
+Expected: The total amount We will pay in respect of a. is £1,000,000 any one claim and in the aggregate in the Period of 
+
+Line: 739
+Actual: 3. liability arising under the Data Protection extension.
+Expected: Insurance and not as otherwise stated. 
+
+Line: 740
+Actual: Any loss, damage, liability, claim, cost or expense of whatsoever nature directly or indirectly caused by, contributed to 
+Expected: 
+
+Line: 741
+Actual: by, resulting from, arising out of or in connection with any loss of use, reduction in functionality, repair, replacement, 
+Expected: 
+
+Line: 742
+Actual: restoration or reproduction of any Data, including any amount pertaining to the value of such Data is not covered and 
+Expected: 
+
+Line: 743
+Actual: is not considered as physical loss or damage for the purposes of this exclusion.
+Expected: 
+
+Line: 744
+Actual: The following amendment is made to the Data Protection extension:
+Expected: 
+
+Line: 745
+Actual: Data Protection extension – amendment to limit
+Expected: 
+
+Line: 746
+Actual: The total amount We will pay in respect of a. is £1,000,000 any one claim and in the aggregate in the Period of 
+Expected: 
+
+Line: 747
+Actual: Insurance and not as otherwise stated.
+Expected: 
+
